@@ -1,0 +1,32 @@
+{
+  "name": "@fibjs/compose",
+  "description": "Compose middleware.",
+  "version": "1.0.0",
+  "keywords": [
+    "compose",
+    "fs",
+    "fibjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibjs-modules/compose.git"
+  },
+  "scripts": {
+    "ci": "fibjs test/test.js"
+  },
+  "devDependencies": {
+    "@fibjs/ci": "^2.0.0"
+  },
+  "ci": {
+    "version": "0.4.1, 0.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/fibjs-modules/compose/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "ngot <zhuanghengfei@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/fibjs-modules/compose#readme"
+}
