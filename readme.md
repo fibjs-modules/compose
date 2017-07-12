@@ -14,7 +14,7 @@
 [travis-url]: https://travis-ci.org/fibjs-modules/compose
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/hnsvto46bnirhx1v/branch/master?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/ngot/compose
-[codecov-image]: https://img.shields.io/codecov/c/github/fibjs-modules/compose.svg?style=flat-square
+[codecov-image]: https://ci.appveyor.com/api/projects/status/kxw62502q9uo6aei?svg=true
 [codecov-url]: https://codecov.io/github/fibjs-modules/compose?branch=master
 [david-image]: https://img.shields.io/david/fibjs-modules/compose.svg?style=flat-square
 [david-url]: https://david-dm.org/fibjs-modules/compose
