@@ -12,10 +12,12 @@
     "url": "git+https://github.com/fibjs-modules/compose.git"
   },
   "scripts": {
+    "bench": "_matcha bench/bench.js",
     "ci": "fibjs test/test.js"
   },
   "devDependencies": {
-    "@fibjs/ci": "^2.0.0"
+    "@fibjs/ci": "^2.0.0",
+    "@fibjs/matcha": "^0.7.1"
   },
   "ci": {
     "version": "0.4.1, 0.8.0"
